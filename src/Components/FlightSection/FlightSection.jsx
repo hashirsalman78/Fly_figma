@@ -5,7 +5,7 @@ import emirates from "/emirates.png";
 import qatar from "/qatar.png";
 import Box2 from "../Homepage/Box2";
 import Details from "../Homepage/Details";
-import PaymentDetails from "../Utilites/paymentDetails";
+import PaymentDetails from "../Utilites/PaymentDetails";
 import Footer from "../Homepage/Footer";
 import Travelercard from "../Utilites/Travelercard";
 import Navbar from "../../Navbar/Navbar";
